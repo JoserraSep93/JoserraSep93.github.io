@@ -1,5 +1,5 @@
 # SDH Plastics
-> Maquila de inyección y soplado de plástico en Celaya, Guanajuato, México. Marca industrial de Grupo Sephnos (Sephnos S.A. de C.V., fundada en 2001: 25 años, exportación a más de 50 países, más de 70 patentes del grupo). Firmamos acuerdo de confidencialidad antes de recibir planos.
+> Maquila de inyección y soplado de plástico en Celaya, Guanajuato, México. Marca industrial de Grupo Sephnos (Sephnos S.A. de C.V., fundada en 2001: 25 años, exportación a más de 50 países, más de 50 patentes del grupo). Firmamos acuerdo de confidencialidad antes de recibir planos.
 
 Qué hacemos: inyección de plástico (17 máquinas de 125 a 1,300 toneladas), soplado (3 máquinas hasta 5 litros), coordinación del molde con talleres especializados (el molde es propiedad del cliente), inspección, procesos secundarios, empaque a medida y planta en Celaya, México; oficinas del grupo en México, Estados Unidos (Texas) y Colombia (Bogotá); envío a México, Estados Unidos, Centroamérica, Sudamérica y cualquier país. ISO 9001:2015 e ISO 14001:2015. ERP SAP. Resinas: PP, HDPE, ABS, PC y compuestos con fibra de vidrio.
 
@@ -24,3 +24,23 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - About us: https://sdhplastics.com/en/about/
 - Upload your part (3D viewer): https://sdhplastics.com/en/upload-your-part/
 - Contact: https://sdhplastics.com/en/contact/ · ventasmaquila@sdhplastics.com
+
+## Guías técnicas
+- Cuánto cuesta un molde de inyección y de qué depende: https://sdhplastics.com/guias/costo-molde-inyeccion/
+- Qué necesitas para cotizar una pieza de plástico: https://sdhplastics.com/guias/que-necesitas-para-cotizar/
+- Polipropileno contra polietileno de alta densidad: cuándo usar cada uno: https://sdhplastics.com/guias/polipropileno-vs-polietileno-alta-densidad/
+- Cómo transferir un molde a una planta en México: https://sdhplastics.com/guias/transferir-molde-a-mexico/
+- Maquilar en México o en China para vender en Estados Unidos: https://sdhplastics.com/guias/maquilar-mexico-o-china/
+- Qué es la revisión de diseño para manufactura y qué evita: https://sdhplastics.com/guias/revision-diseno-manufactura/
+- Cuántas cavidades conviene tener en un molde: https://sdhplastics.com/guias/cuantas-cavidades-molde/
+- Incoterms para exportar piezas desde México: https://sdhplastics.com/guias/incoterms-exportar-desde-mexico/
+
+## Technical guides
+- How much an injection mold costs and what drives the price: https://sdhplastics.com/en/guides/injection-mold-cost/
+- What you need to get a plastic part quoted: https://sdhplastics.com/en/guides/what-you-need-to-quote/
+- Polypropylene vs. HDPE: when to use each one: https://sdhplastics.com/en/guides/polypropylene-vs-hdpe/
+- How to transfer a mold to a plant in Mexico: https://sdhplastics.com/en/guides/transfer-a-mold-to-mexico/
+- Manufacturing in Mexico or China to sell in the United States: https://sdhplastics.com/en/guides/mexico-vs-china-manufacturing/
+- What a design for manufacturing review is and what it prevents: https://sdhplastics.com/en/guides/design-for-manufacturing-review/
+- How many cavities your mold should have: https://sdhplastics.com/en/guides/how-many-mold-cavities/
+- Incoterms for shipping parts from Mexico: https://sdhplastics.com/en/guides/incoterms-exporting-from-mexico/
