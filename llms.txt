@@ -34,6 +34,28 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - Qué es la revisión de diseño para manufactura y qué evita: https://sdhplastics.com/guias/revision-diseno-manufactura/
 - Cuántas cavidades conviene tener en un molde: https://sdhplastics.com/guias/cuantas-cavidades-molde/
 - Incoterms para exportar piezas desde México: https://sdhplastics.com/guias/incoterms-exportar-desde-mexico/
+- Cómo elegir un maquilador de inyección de plástico: 12 preguntas: https://sdhplastics.com/guias/como-elegir-maquilador-inyeccion/
+- Nearshoring de piezas de plástico en México: qué gana un comprador de Estados Unidos: https://sdhplastics.com/guias/nearshoring-piezas-plastico-mexico/
+- Cómo se calcula el precio por pieza en inyección de plástico: https://sdhplastics.com/guias/precio-por-pieza-inyeccion/
+- Volumen mínimo para inyección de plástico: cuándo conviene y cuándo no: https://sdhplastics.com/guias/volumen-minimo-inyeccion/
+- Inyección, soplado, termoformado o rotomoldeo: qué proceso conviene para tu pieza: https://sdhplastics.com/guias/inyeccion-soplado-termoformado-rotomoldeo/
+- Moldeo por soplado de envases: cómo funciona y cuándo elegirlo: https://sdhplastics.com/guias/moldeo-por-soplado-envases/
+- Molde de aluminio o de acero: cuál conviene para tu proyecto: https://sdhplastics.com/guias/molde-aluminio-o-acero/
+- Vida útil y mantenimiento de moldes de inyección: cómo evitar paros: https://sdhplastics.com/guias/vida-util-mantenimiento-moldes/
+- Colada caliente contra colada fría: costo, ventajas y cuándo conviene: https://sdhplastics.com/guias/colada-caliente-vs-colada-fria/
+- Cronograma de un proyecto de inyección: de la idea a la primera producción: https://sdhplastics.com/guias/cronograma-proyecto-inyeccion/
+- PPAP y primera muestra: qué documentos pide un cliente industrial: https://sdhplastics.com/guias/ppap-primera-muestra/
+- Tolerancias en piezas inyectadas: qué se puede lograr y qué encarece: https://sdhplastics.com/guias/tolerancias-piezas-inyectadas/
+- Control de calidad en piezas plásticas: inspección, muestreo y reportes: https://sdhplastics.com/guias/control-calidad-piezas-plasticas/
+- Cómo elegir la resina para una pieza inyectada: PP, HDPE, ABS, PC y nylon: https://sdhplastics.com/guias/seleccion-resina-inyeccion/
+- Plástico con fibra de vidrio: cuándo usarlo y qué cambia en la pieza: https://sdhplastics.com/guias/plastico-con-fibra-de-vidrio/
+- Plástico reciclado en piezas inyectadas: cuánto usar y qué cuidar: https://sdhplastics.com/guias/plastico-reciclado-inyeccion/
+- Reglas de diseño para inyección: espesores, ángulos de salida, radios y nervaduras: https://sdhplastics.com/guias/reglas-diseno-inyeccion/
+- Sobremoldeo, insertos metálicos y procesos secundarios: cuándo convienen: https://sdhplastics.com/guias/sobremoldeo-insertos-procesos-secundarios/
+- Empaque de piezas plásticas para exportación: menos daños, menos flete: https://sdhplastics.com/guias/empaque-piezas-plasticas-exportacion/
+- Cómo proteger tu diseño al maquilar: confidencialidad, molde y propiedad intelectual: https://sdhplastics.com/guias/proteger-diseno-al-maquilar/
+- T-MEC y reglas de origen para piezas de plástico hechas en México: https://sdhplastics.com/guias/tmec-reglas-origen-plastico/
+- Piezas de plástico para el sector agrícola: materiales, exigencias y escala: https://sdhplastics.com/guias/piezas-plastico-sector-agricola/
 
 ## Technical guides
 - How much an injection mold costs and what drives the price: https://sdhplastics.com/en/guides/injection-mold-cost/
@@ -44,3 +66,25 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - What a design for manufacturing review is and what it prevents: https://sdhplastics.com/en/guides/design-for-manufacturing-review/
 - How many cavities your mold should have: https://sdhplastics.com/en/guides/how-many-mold-cavities/
 - Incoterms for shipping parts from Mexico: https://sdhplastics.com/en/guides/incoterms-exporting-from-mexico/
+- How to choose an injection molder: 12 questions to ask: https://sdhplastics.com/en/guides/how-to-choose-an-injection-molder/
+- Nearshoring plastic parts to Mexico: what a U.S. buyer gains: https://sdhplastics.com/en/guides/nearshoring-plastic-parts-mexico/
+- How the price per part is calculated in injection molding: https://sdhplastics.com/en/guides/injection-molding-price-per-part/
+- Minimum volume for injection molding: when it pays off and when it does not: https://sdhplastics.com/en/guides/injection-molding-minimum-volume/
+- Injection, blow molding, thermoforming or rotomolding: which process fits your part: https://sdhplastics.com/en/guides/injection-vs-blow-vs-thermoforming-vs-rotomolding/
+- Extrusion blow molding for containers: how it works and when to choose it: https://sdhplastics.com/en/guides/extrusion-blow-molding-containers/
+- Aluminum vs. steel molds: which one fits your project: https://sdhplastics.com/en/guides/aluminum-vs-steel-molds/
+- Injection mold life and maintenance: how to avoid downtime: https://sdhplastics.com/en/guides/mold-life-and-maintenance/
+- Hot runner vs. cold runner: cost, benefits and when each makes sense: https://sdhplastics.com/en/guides/hot-runner-vs-cold-runner/
+- Injection molding project timeline: from idea to first production: https://sdhplastics.com/en/guides/injection-molding-project-timeline/
+- PPAP and first article inspection: the documents industrial customers expect: https://sdhplastics.com/en/guides/ppap-and-first-article-inspection/
+- Injection molding tolerances: what is achievable and what drives cost: https://sdhplastics.com/en/guides/injection-molding-tolerances/
+- Quality control for plastic parts: inspection, sampling and reports: https://sdhplastics.com/en/guides/plastic-parts-quality-control/
+- How to choose a resin for an injection-molded part: PP, HDPE, ABS, PC and nylon: https://sdhplastics.com/en/guides/resin-selection-for-injection-molding/
+- Glass-filled plastics: when to use them and what changes in the part: https://sdhplastics.com/en/guides/glass-filled-plastics/
+- Recycled plastic in injection-molded parts: how much to use and what to watch: https://sdhplastics.com/en/guides/recycled-plastic-injection-molding/
+- Injection molding design rules: wall thickness, draft, radii and ribs: https://sdhplastics.com/en/guides/injection-molding-design-rules/
+- Overmolding, metal inserts and secondary operations: when they make sense: https://sdhplastics.com/en/guides/overmolding-inserts-secondary-operations/
+- Packaging plastic parts for export: fewer damages, lower freight: https://sdhplastics.com/en/guides/packaging-plastic-parts-for-export/
+- How to protect your design when outsourcing: NDAs, mold ownership and IP: https://sdhplastics.com/en/guides/protect-your-design-contract-manufacturing/
+- USMCA rules of origin for plastic parts made in Mexico: https://sdhplastics.com/en/guides/usmca-rules-of-origin-plastic-parts/
+- Plastic parts for agriculture: materials, requirements and scale: https://sdhplastics.com/en/guides/plastic-parts-for-agriculture/
