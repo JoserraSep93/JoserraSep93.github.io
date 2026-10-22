@@ -1,19 +1,21 @@
 # SDH Plastics
 > Maquila de inyección y soplado de plástico en Celaya, Guanajuato, México. Marca industrial de Grupo Sephnos (Sephnos S.A. de C.V., fundada en 2001: 25 años, exportación a más de 50 países, más de 50 patentes del grupo). Firmamos acuerdo de confidencialidad antes de recibir planos.
 
-Qué hacemos: inyección de plástico (17 máquinas de 125 a 1,300 toneladas), soplado (3 máquinas hasta 5 litros), coordinación del molde con talleres especializados (el molde es propiedad del cliente), inspección, procesos secundarios, empaque a medida y planta en Celaya, México; oficinas del grupo en México, Estados Unidos (Texas) y Colombia (Bogotá); envío a México, Estados Unidos, Centroamérica, Sudamérica y cualquier país. ISO 9001:2015 e ISO 14001:2015. ERP SAP. Resinas: PP, HDPE, ABS, PC y compuestos con fibra de vidrio.
+Qué hacemos: inyección de plástico (17 máquinas de 125 a 1,300 toneladas), soplado (3 máquinas hasta 5 litros), coordinación del molde con talleres especializados (el molde es propiedad del cliente), inspección, procesos secundarios, empaque a medida y planta en Celaya, México; oficinas del grupo en México, Estados Unidos (Texas) y Colombia (Bogotá); envío a México, Estados Unidos, Centroamérica, Sudamérica y cualquier país. ISO 9001:2015 e ISO 14001:2015. Distintivo Empresa Socialmente Responsable (ESR) y Marca Guanajuato Internacional. ERP SAP. Resinas: PP, HDPE, ABS, PC y compuestos con fibra de vidrio.
 
 - Capacidades: https://sdhplastics.com/capacidades/
 - Cómo cotizar: https://sdhplastics.com/como-cotizar/
 - Preguntas frecuentes: https://sdhplastics.com/preguntas-frecuentes/
 - Sectores: https://sdhplastics.com/sectores/
 - Casos: https://sdhplastics.com/casos-de-exito/
+- Cotiza tu pieza: https://sdhplastics.com/cotiza/
+- Maquila con tu molde (ya tienes molde de inyección): https://sdhplastics.com/maquila-con-tu-molde/
 - Contacto: https://sdhplastics.com/contacto/ · ventasmaquila@sdhplastics.com
 
 ## English
 > Plastic injection molding and blow molding contract manufacturer in Celaya, Guanajuato, Mexico. Industrial brand of Grupo Sephnos (Sephnos S.A. de C.V.).
 
-What we do: plastic injection molding (17 machines from 125 to 1,300 tons of clamping force), blow molding (3 machines up to 5 liters), mold coordination with specialized tool shops (the mold is always the customer's property), inspection, secondary operations, packaging to spec and delivery in Mexico and the United States. ISO 9001:2015 and ISO 14001:2015. SAP ERP. Resins: PP, HDPE, ABS, PC and glass-fiber compounds. No in-house CNC or CMM.
+What we do: plastic injection molding (17 machines from 125 to 1,300 tons of clamping force), blow molding (3 machines up to 5 liters), mold coordination with specialized tool shops (the mold is always the customer's property), inspection, secondary operations, packaging to spec and delivery in Mexico and the United States. ISO 9001:2015 and ISO 14001:2015. Socially Responsible Company (ESR) distinction and Marca Guanajuato Internacional. SAP ERP. Resins: PP, HDPE, ABS, PC and glass-fiber compounds. No in-house CNC or CMM.
 
 - Home: https://sdhplastics.com/en/
 - Capabilities: https://sdhplastics.com/en/capabilities/
@@ -23,13 +25,20 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - Case studies: https://sdhplastics.com/en/case-studies/
 - About us: https://sdhplastics.com/en/about/
 - Upload your part (3D viewer): https://sdhplastics.com/en/upload-your-part/
+- Quote your part: https://sdhplastics.com/en/quote/
+- Injection molding with your mold (mold transfer to Mexico): https://sdhplastics.com/en/mold-transfer-mexico/
 - Contact: https://sdhplastics.com/en/contact/ · ventasmaquila@sdhplastics.com
 
 ## Herramientas
 
 - Calculadora de fuerza de cierre (tonelaje) para inyección, con las máquinas de SDH que pueden correr la pieza: https://sdhplastics.com/herramientas/calculadora-tonelaje/
 
-## Guías técnicas
+## Biblioteca técnica (artículos)
+- Máquina de inyección de plástico: partes, ciclo y cómo elegirla: https://sdhplastics.com/guias/maquina-inyeccion-plastico/
+- Tonelaje de una máquina de inyección: qué es y cómo se calcula: https://sdhplastics.com/guias/tonelaje-maquina-inyeccion/
+- Molde de inyección: qué es, sus partes y tipos: https://sdhplastics.com/guias/molde-inyeccion-partes-tipos/
+- Materias primas para inyección de plástico: resinas, aditivos y preparación: https://sdhplastics.com/guias/materias-primas-inyeccion-plastico/
+- Eficiencia en máquinas de inyección: ciclo, OEE y cambios de molde: https://sdhplastics.com/guias/eficiencia-maquinas-inyeccion/
 - Cuánto cuesta un molde de inyección y de qué depende: https://sdhplastics.com/guias/costo-molde-inyeccion/
 - Qué necesitas para cotizar una pieza de plástico: https://sdhplastics.com/guias/que-necesitas-para-cotizar/
 - Polipropileno contra polietileno de alta densidad: cuándo usar cada uno: https://sdhplastics.com/guias/polipropileno-vs-polietileno-alta-densidad/
@@ -65,7 +74,12 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 
 - Injection molding clamp tonnage calculator, showing which SDH machines can run the part: https://sdhplastics.com/en/tools/clamp-tonnage-calculator/
 
-## Technical guides
+## Technical library (articles)
+- Injection molding machine: parts, cycle and how to choose one: https://sdhplastics.com/en/guides/injection-molding-machine/
+- Injection molding clamping force: what it is and how to calculate it: https://sdhplastics.com/en/guides/injection-molding-clamping-force/
+- Injection mold: what it is, its parts and types: https://sdhplastics.com/en/guides/injection-mold-parts-and-types/
+- Raw materials for injection molding: resins, additives and preparation: https://sdhplastics.com/en/guides/raw-materials-for-injection-molding/
+- Injection molding efficiency: cycle time, OEE and mold changes: https://sdhplastics.com/en/guides/injection-molding-efficiency/
 - How much an injection mold costs and what drives the price: https://sdhplastics.com/en/guides/injection-mold-cost/
 - What you need to get a plastic part quoted: https://sdhplastics.com/en/guides/what-you-need-to-quote/
 - Polypropylene vs. HDPE: when to use each one: https://sdhplastics.com/en/guides/polypropylene-vs-hdpe/
