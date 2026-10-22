@@ -25,6 +25,10 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - Upload your part (3D viewer): https://sdhplastics.com/en/upload-your-part/
 - Contact: https://sdhplastics.com/en/contact/ · ventasmaquila@sdhplastics.com
 
+## Herramientas
+
+- Calculadora de fuerza de cierre (tonelaje) para inyección, con las máquinas de SDH que pueden correr la pieza: https://sdhplastics.com/herramientas/calculadora-tonelaje/
+
 ## Guías técnicas
 - Cuánto cuesta un molde de inyección y de qué depende: https://sdhplastics.com/guias/costo-molde-inyeccion/
 - Qué necesitas para cotizar una pieza de plástico: https://sdhplastics.com/guias/que-necesitas-para-cotizar/
@@ -56,6 +60,10 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - Cómo proteger tu diseño al maquilar: confidencialidad, molde y propiedad intelectual: https://sdhplastics.com/guias/proteger-diseno-al-maquilar/
 - T-MEC y reglas de origen para piezas de plástico hechas en México: https://sdhplastics.com/guias/tmec-reglas-origen-plastico/
 - Piezas de plástico para el sector agrícola: materiales, exigencias y escala: https://sdhplastics.com/guias/piezas-plastico-sector-agricola/
+
+## Tools
+
+- Injection molding clamp tonnage calculator, showing which SDH machines can run the part: https://sdhplastics.com/en/tools/clamp-tonnage-calculator/
 
 ## Technical guides
 - How much an injection mold costs and what drives the price: https://sdhplastics.com/en/guides/injection-mold-cost/
