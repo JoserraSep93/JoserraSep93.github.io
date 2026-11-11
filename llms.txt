@@ -34,6 +34,16 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - Calculadora de fuerza de cierre (tonelaje) para inyección, con las máquinas de SDH que pueden correr la pieza: https://sdhplastics.com/herramientas/calculadora-tonelaje/
 
 ## Biblioteca técnica (artículos)
+- Defectos en piezas inyectadas: causas y cómo se corrigen: https://sdhplastics.com/guias/defectos-piezas-inyectadas/
+- Color en piezas de plástico: masterbatch, igualación y tolerancia: https://sdhplastics.com/guias/color-piezas-plasticas-masterbatch/
+- Acabados y texturas de molde: SPI, VDI y texturizado: https://sdhplastics.com/guias/acabados-texturas-molde-inyeccion/
+- Tiempo de ciclo en inyección: qué lo define y cuánto pesa en el precio: https://sdhplastics.com/guias/tiempo-de-ciclo-inyeccion/
+- Simulación de llenado de molde: qué es y cuándo vale la pena: https://sdhplastics.com/guias/simulacion-llenado-molde/
+- Prototipos antes del molde: impresión 3D, mecanizado y molde prototipo: https://sdhplastics.com/guias/prototipos-antes-del-molde/
+- Plástico grado alimenticio: qué exige FDA, la Unión Europea y México: https://sdhplastics.com/guias/plastico-grado-alimenticio/
+- Plásticos para exterior: resistencia a rayos UV y a la intemperie: https://sdhplastics.com/guias/plasticos-para-exterior-uv/
+- Forecast, inventario de seguridad y órdenes abiertas con tu maquilador: https://sdhplastics.com/guias/forecast-inventario-ordenes-abiertas/
+- Cómo auditar a un proveedor de inyección de plástico en su planta: https://sdhplastics.com/guias/auditoria-proveedor-inyeccion/
 - Máquina de inyección de plástico: partes, ciclo y cómo elegirla: https://sdhplastics.com/guias/maquina-inyeccion-plastico/
 - Tonelaje de una máquina de inyección: qué es y cómo se calcula: https://sdhplastics.com/guias/tonelaje-maquina-inyeccion/
 - Molde de inyección: qué es, sus partes y tipos: https://sdhplastics.com/guias/molde-inyeccion-partes-tipos/
@@ -75,6 +85,16 @@ What we do: plastic injection molding (17 machines from 125 to 1,300 tons of cla
 - Injection molding clamp tonnage calculator, showing which SDH machines can run the part: https://sdhplastics.com/en/tools/clamp-tonnage-calculator/
 
 ## Technical library (articles)
+- Injection molding defects: causes and how to fix them: https://sdhplastics.com/en/guides/injection-molding-defects/
+- Color in plastic parts: masterbatch, color matching and tolerance: https://sdhplastics.com/en/guides/color-matching-plastic-parts/
+- Mold finishes and textures: SPI, VDI and texturing: https://sdhplastics.com/en/guides/injection-mold-finishes-textures/
+- Injection molding cycle time: what drives it and how it affects price: https://sdhplastics.com/en/guides/injection-molding-cycle-time/
+- Mold flow simulation: what it is and when it is worth it: https://sdhplastics.com/en/guides/mold-flow-simulation/
+- Prototyping before the mold: 3D printing, machining and prototype tooling: https://sdhplastics.com/en/guides/prototyping-before-injection-mold/
+- Food-grade plastics: what FDA, the European Union and Mexico require: https://sdhplastics.com/en/guides/food-grade-plastics-injection-molding/
+- Plastics for outdoor use: UV and weather resistance: https://sdhplastics.com/en/guides/uv-resistant-plastics-outdoor/
+- Forecast, safety stock and blanket orders with your contract molder: https://sdhplastics.com/en/guides/forecast-safety-stock-blanket-orders/
+- How to audit a plastic injection molding supplier at their plant: https://sdhplastics.com/en/guides/injection-molder-supplier-audit/
 - Injection molding machine: parts, cycle and how to choose one: https://sdhplastics.com/en/guides/injection-molding-machine/
 - Injection molding clamping force: what it is and how to calculate it: https://sdhplastics.com/en/guides/injection-molding-clamping-force/
 - Injection mold: what it is, its parts and types: https://sdhplastics.com/en/guides/injection-mold-parts-and-types/
